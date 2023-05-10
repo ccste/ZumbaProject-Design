@@ -1,7 +1,7 @@
 # Zumba Project Design
 This is a UI design repository created for the Zumba project, which includes well-designed wireframes, mock-ups, and design documents. The design aims to improve user experience and engagement to better meet the needs of Zumba project's target audience.
 
-## Wireframes
+<h2>Wireframes</h2>
 The wireframes folder includes preliminary layouts and page structures for the design, which provide guidance for the overall direction of the design. This includes home page, login page, member page, and admin page, etc.
 
 ## Mock-ups
