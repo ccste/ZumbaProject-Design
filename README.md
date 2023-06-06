@@ -17,5 +17,5 @@ The design document contains the font family and color palettes used, as well as
 ### Installation Guide
 There is no specific installation guide for this design, but all design files can be viewed by downloading ZIP in your own laptop/desktop for free. 
 
-Thank you for visiting, and we hope this UI design repository is helpful to you!
-If you have any questions about this repository, please ask me through emial: lhc0546@126.com
+Thank you for visiting, and I hope this UI design repository is helpful to you!
+If you have any questions about this repository, please ask me through email: lhc0546@126.com
